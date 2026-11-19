@@ -1,0 +1,7 @@
+# Code only: ignore everything, then whitelist source/data files
+/*
+!.gitignore
+!*.py
+!*.csv
+!*.md
+!requirements.txt
